@@ -1,6 +1,6 @@
 ## Installation
 
-To get started, you should add the `Ribafs/crud-generator` Composer dependency to your project:
+To get started, you should add the `ribafs/crud-generator` Composer dependency to your project:
 ```
 composer require ribafs/crud-generator --dev
 ```
