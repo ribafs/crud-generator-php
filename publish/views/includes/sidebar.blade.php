@@ -93,7 +93,7 @@ Para tabelas com mais campos devemos remover o sidebar da view para deixar uma Ã
                     </a>
                 </li>
             </ul>
-      @endif
+      @endrole
       @role('user')
             <ul class="nav" role="tablist">
                 <li role="presentation">
@@ -102,7 +102,7 @@ Para tabelas com mais campos devemos remover o sidebar da view para deixar uma Ã
                     </a>
                 </li>
             </ul>
-      @endif
+      @endrole
         </div>
     </div>
 </div>
