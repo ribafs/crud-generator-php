@@ -24,6 +24,9 @@ This fork have changes to appzcoder/crud-generator:
     PHP >= 5.6.4
 
 ## Installation
+
+## Em português
+[LEIAME.md](LEIAME)
 ```
 composer require ribafs/crud-generator --dev
 ```
