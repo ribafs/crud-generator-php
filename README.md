@@ -26,7 +26,7 @@ This fork have changes to appzcoder/crud-generator:
 ## Installation
 
 ## Em português
-[LEIAME.md](LEIAME)
+[LEIAME.md](LEIAME.md)
 ```
 composer require ribafs/crud-generator --dev
 ```
