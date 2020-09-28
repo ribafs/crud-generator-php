@@ -10,7 +10,7 @@ composer require ribafs/crud-generator --dev
 
 ## Criar os CRUDs
 
-Usar o nome do CRUD no plural e após a criação renomear o controller para o singular (seguindo a convenção do laravel)
+Usar o nome do CRUD no plural e após a criação renomear o controller para o singular (seguindo a convenção do laravel) e corrigir na route.
 
 ### Na pasta raiz
 ```bash
