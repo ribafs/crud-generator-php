@@ -29,3 +29,8 @@ php artisan crud:generate Products --fields='name#string; price#decimal;' --view
 ```bash
 php artisan crud:generate Clients --fields='name#string; email#string;' --view-path=admin --controller-namespace=App\\Http\\Controllers\\Admin --route-group=admin --form-helper=html
 ```
+
+## orderBy
+Acontece em alguns controllers de não funcionar o orderBy usado, como aconteceu aqui com o CRUD Permisisions. Então uso o DB, assim:
+
+                $permissions = DB::table('permissions')->paginate($perPage);//->orderBy('id')->get();
