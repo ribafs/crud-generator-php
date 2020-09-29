@@ -18,6 +18,7 @@ This fork have changes to appzcoder/crud-generator:
 - Change layouts/app.blade.php in laravel 8
 - Add orderBy() to controller
 - Add folder includes in publish/views
+- Errors views: 404, 402 and 500
 - and others
 
 ## Requirements
