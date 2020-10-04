@@ -5,6 +5,9 @@
 ```
 php artisan crud:generate Posts --fields='title#string; content#text; category#select#options={"technology": "Technology", "tips": "Tips", "health": "Health"}' --view-path=admin --controller-namespace=App\\Http\\Controllers\\Admin --route-group=admin --form-helper=html
 ```
+## Atenção
+Será criada uma pasta resources/includes com sidebar.blade.php dentro. Ele mostra um menu, mas é apenas um modelo que deve adaptar para seus CRUDs.
+
 
 #### CRUD fields from a JSON file:
 
