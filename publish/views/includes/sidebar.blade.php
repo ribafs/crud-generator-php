@@ -9,7 +9,6 @@ Para tabelas com mais campos devemos remover o sidebar da view para deixar uma Ã
         </div>
 
         <div class="card-body">
-      @role ('super')
             <ul class="nav" role="tablist">
                 <li role="presentation">
                     <a href="{{ url('/users') }}">
@@ -54,55 +53,6 @@ Para tabelas com mais campos devemos remover o sidebar da view para deixar uma Ã
                     </a>
                 </li>
             </ul>
-      @endrole
-      @role('admin')
-            <ul class="nav" role="tablist">
-                <li role="presentation">
-                    <a href="{{ url('/users') }}">
-                        - Users
-                    </a>
-                </li>
-            </ul>
-            <ul class="nav" role="tablist">
-                <li role="presentation">
-                    <a href="{{ url('/roles') }}">
-                        - Roles
-                    </a>
-                </li>
-            </ul>
-            <ul class="nav" role="tablist">
-                <li role="presentation">
-                    <a href="{{ url('/permissions') }}">
-                        - Permissions
-                    </a>
-                </li>
-            </ul>
-      @endrole
-      @role('manager')
-            <ul class="nav" role="tablist">
-                <li role="presentation">
-                    <a href="{{ url('/clients') }}">
-                        - Clients
-                    </a>
-                </li>
-            </ul>
-            <ul class="nav" role="tablist">
-                <li role="presentation">
-                    <a href="{{ url('/products') }}">
-                        - Products
-                    </a>
-                </li>
-            </ul>
-      @endrole
-      @role('user')
-            <ul class="nav" role="tablist">
-                <li role="presentation">
-                    <a href="{{ url('/clients') }}">
-                        - Clients
-                    </a>
-                </li>
-            </ul>
-      @endrole
         </div>
     </div>
 </div>
