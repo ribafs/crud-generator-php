@@ -90,7 +90,16 @@ O principal objetivo deste pequeno software é o de facilitar a vida de quem nã
 - https://www.kodingmadesimple.com/2017/01/simple-ajax-pagination-in-jquery-php-pdo-mysql.html
 - https://www.codingcage.com/2015/10/create-pagination-script-using-php-jquery.html
 - https://www.bipmedia.com/blog/tutorial/pagination-script-using-php-pdo-with-jquery
-- 
+- https://www.sqlmaestro.com/products/mysql/phpgenerator/ (Gerador de aplicativos desktop em PHP com MySQL para Windows)
+- https://www.sqlmaestro.com/products/postgresql/phpgenerator/ (Gerador de aplicativos desktop em PHP com PostgreSQL para Windows)
+- https://www.sqlmaestro.com/products/sqlite/phpgenerator/ (Gerador de aplicativos desktop em PHP com SQLite para Windows)
+- https://www.sqlmaestro.com/products/mssql/phpgenerator/ (Gerador de aplicativos desktop em PHP para SQL Server)
+- https://www.sqlmaestro.com/products/firebird/phpgenerator/ (Gerador de aplicativos desktop em PHP com Firebird para Windows)
+- https://www.sqlmaestro.com/products/oracle/phpgenerator/ (Gerador de aplicativos desktop em PHP com Oracle para Windows)
+- https://www.sqlmaestro.com/products/sql_anywhere/phpgenerator/  (Gerador de aplicativos desktop em PHP com ASA para Windows)
+- https://www.sqlmaestro.com/products/db2/phpgenerator/ (Gerador de aplicativos desktop em PHP com DB2 para Windows)
+- https://www.sqlmaestro.com/products/maxdb/phpgenerator/ (Gerador de aplicativos desktop em PHP com MaxDB para Windows)
+- Mais? https://www.sqlmaestro.com/download/
 
 ## Licença
 
