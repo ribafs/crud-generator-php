@@ -1,5 +1,13 @@
 # Gerador de CRUDs em PHP
 
+### Gerador de CRUDs em PHP
+
+https://github.com/ribafs/crud-generator
+
+Eu tinha um crud-generator, que é para Laravel. Se estiver procurando por este ele fica em
+
+https://github.com/ribafs/laravel-crud-generator
+
 ## Recursos
 
 - PHP Orientado a objetos
