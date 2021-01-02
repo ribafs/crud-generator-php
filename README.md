@@ -1,6 +1,6 @@
 # Gerador de CRUDs em PHP
 
-## Continuação deste projeto
+## Este projeto foi abandonado em favor deste abaixo
 
 https://github.com/ribafs/php-seletos/tree/main/5Diversos/crud-generator
 
