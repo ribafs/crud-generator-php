@@ -1,5 +1,13 @@
 # Gerador de CRUDs em PHP
 
+## Continuação deste projeto
+
+https://github.com/ribafs/php-seletos/tree/main/5Diversos/crud-generator
+
+
+
+
+
 ### Gerador de CRUDs em PHP
 
 https://github.com/ribafs/crud-generator
