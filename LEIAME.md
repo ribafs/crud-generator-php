@@ -4,7 +4,7 @@
 
 ## Instalar gerador
 composer require ribafs/crud-generator --dev
-
+  
 ## Publicar
     php artisan vendor:publish --provider="Ribafs\CrudGenerator\CrudGeneratorServiceProvider"
 
