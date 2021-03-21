@@ -4,10 +4,10 @@ Veja a transformação de um aplicativo em PHP estruturado para um aplicativo em
 
 ## Esta versão foi isolada do repositório php-seletos e agora tem 4 fases
 
-- [1crud-generator-php](crud-generator-php)
-- [2crud-generator-phpoo](crud-generator-phpoo)
-- [3crud-generator-mvc](crud-generator-mvc)
-- [4crud-generator-mvc-static](crud-generator-mvc-static)
+- [1crud-generator-php](1crud-generator-php)
+- [2crud-generator-phpoo](2crud-generator-phpoo)
+- [3crud-generator-mvc](3crud-generator-mvc)
+- [4crud-generator-mvc-static](4crud-generator-mvc-static)
 
 db_my.sql
 
