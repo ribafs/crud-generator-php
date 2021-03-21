@@ -2,7 +2,7 @@
 
 Veja a transformação de um aplicativo em PHP estruturado para um aplicativo em PHPOO, depois do PHPOO para um com PHP com MVC. Finalmente de um com MVC para um com MVC com classes estáticas.
 
-Esta versão foi isolada do repositório php-seletos.
+## Esta versão foi isolada do repositório php-seletos e agora tem 4 fases
 
 /1crud-generator-php
 /2crud-generator-phpoo
