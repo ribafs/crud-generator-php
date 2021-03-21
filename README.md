@@ -14,3 +14,4 @@ db_my.sql
 db_pg.sql
 
 
+Você pode escolher um dos 4 tipos para usar ou pode iniciar com o primeiro e experimentar os 4.
