@@ -1,2 +1,0 @@
-Glyphicons:
-https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
