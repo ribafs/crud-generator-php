@@ -11,5 +11,13 @@ db_my.sql
 
 db_pg.sql
 
+## Formulário inicial
+Antes crie um banco no MySQL ou no PostgreSQL e chame o index de um dos diretórios (php ou phpoo), que aparecerá:
+
+![](images/form.png)
+
+Depois que preencher e enviar receberá o CRUD completo:
+
+![](images/crud-generator.png)
 
 Você pode escolher um dos 2 tipos para usar ou pode iniciar com o primeiro e experimentar os 2.
