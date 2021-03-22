@@ -8,12 +8,10 @@ Então faça o download deste repositório para seu diretório web. Então abra 
 - [1crud-generator-php](1crud-generator-php)
 - [2crud-generator-phpoo](2crud-generator-phpoo)
 
-db_my.sql
-
-db_pg.sql
 
 ## Formulário inicial
-Antes crie um banco no MySQL ou no PostgreSQL e chame o index de um dos diretórios (php ou phpoo), que aparecerá:
+
+Chame o index de um dos diretórios (php ou phpoo), que aparecerá:
 
 ![](images/form.png)
 
