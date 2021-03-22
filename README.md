@@ -2,7 +2,8 @@
 
 Veja a transformação de um aplicativo em PHP estruturado para um aplicativo em PHPOO.
 
-## Esta versão foi isolada do repositório php-seletos e agora tem 2 fases
+Recomenda-se que crie um banco no MySQL ou no PostgreSQL e importe um dos scripts.
+Então faça o download deste repositório para seu diretório web. Então abra um dos dois CRUDs.
 
 - [1crud-generator-php](1crud-generator-php)
 - [2crud-generator-phpoo](2crud-generator-phpoo)
