@@ -1,9 +1,8 @@
 # Gerador de CRUDs em PHP
 
 Veja a transformação de um aplicativo em PHP estruturado para um aplicativo em PHPOO.
-```html
-- <h1 style="color:`#00FF00`">This is some red text.</h1>
-```
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Alerta
 São 4 exemplos com a intenção também de mostrar as mudanças deprocecdural para OO, mas o objetivo principal é o de oferecer um CRUD rápido para a manipulação das operações sobre os registros de uma tabela. Nada além disso. Caso queira algo com bons padrões de projeto e boas práticas sugiro procurar um bom framework, como o Laravel. Inclusive para este recomendo um bom gerador de CRUDs:
