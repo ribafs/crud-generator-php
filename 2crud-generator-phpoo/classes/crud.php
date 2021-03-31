@@ -33,8 +33,7 @@ class Crud extends Connection
         return $field;
     }
 
-    // Return this:
-    // <tr><td>Name</td><td><input type="text" name="name"></td></tr>
+    // Return this: <tr><td>Name</td><td><input type="text" name="name"></td></tr>
     public function formFields(){
 	    $fields = '';
 
@@ -95,7 +94,7 @@ class Crud extends Connection
         return $fields;
     }
 
-    // Return this: /* <tr><td><b>Name</td><td><input type="text" name="name" value="$name"></td></tr> */
+    /* Return this: <tr><td><b>Name</td><td><input type="text" name="name" value="$name"></td></tr> */
     public function fieldsUpdate($reg){
 	    $fields = '';
 
