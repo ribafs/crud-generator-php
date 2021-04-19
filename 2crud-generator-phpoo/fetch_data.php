@@ -27,12 +27,9 @@ if($nr > 0){
 
     while($row = $results->fetch(PDO::FETCH_ASSOC)) {
         echo "<tr>" . $crud->rowFields($row);
-
-            $id = $row['id'];
-            $name = $row['name'];
-		    ?>
+    ?>
 	        <td><a href="update.php?id=<?=$row['id']?>&table=<?=$table?>"><i class="glyphicon glyphicon-edit" title="Update"></a></td>
-            <td><a onclick="return confirm('Realmente excluir o cliente <?=$name?> ?')" href="delete.php?id=<?=$id?>&table=<?=$table?>"><i class="glyphicon glyphicon-remove-circle" title="Delete"></a></td></tr>
+            <td><a onclick="return confirm('Realmente excluir o cliente <?=$row['id']?> ?')" href="delete.php?id=<?=$row['id']?>&table=<?=$table?>"><i class="glyphicon glyphicon-remove-circle" title="Delete"></a></td></tr>
     <?php
     print "
         </tr>";
