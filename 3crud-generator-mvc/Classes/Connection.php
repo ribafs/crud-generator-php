@@ -27,6 +27,19 @@ class Connection
 
 				}catch(PDOException $e){
                     // Usar estas linhas no catch apenas em ambiente de testes/desenvolvimento. Em produção apenas o exit()
+					if($e->getCode() == 1049) {
+						print '<h1>Favor criar o banco de dados antes e configurá-lo em Classes/Connection.php</h1>';
+						exit;
+					}elseif($e->getCode() == 1045){
+						print '<h1>Favor corrigir a senha do banco de dados antes em Classes/Connection.php</h1>';
+						exit;												
+					}else{
+						echo '<br><br><b>Código</b>: '.$e->getCode().'<hr><br>';
+						echo '<b>Mensagem</b>: '. $e->getMessage().'<br>';
+						echo '<b>Arquivo</b>: '.$e->getFile().'<br>';
+						echo '<b>Linha</b>: '.$e->getLine().'<br>';					
+						exit();
+					}					
 					echo '<br><br><b>Código</b>: '.$e->getCode().'<hr><br>';
 					echo '<b>Mensagem</b>: '. $e->getMessage().'<br>';
 					echo '<b>Arquivo</b>: '.$e->getFile().'<br>';

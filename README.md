@@ -1,5 +1,14 @@
 # Gerador de CRUDs em PHP
 
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Alerta
+São 4 exemplos com a intenção também de mostrar as mudanças deprocecdural para OO, mas o objetivo principal é o de oferecer um CRUD rápido para a manipulação das operações sobre os registros de uma tabela. Nada além disso. Caso queira algo com bons padrões de projeto e boas práticas sugiro procurar um bom framework, como o Laravel. Inclusive para este recomendo um bom gerador de CRUDs:
+
+https://github.com/ribafs/laravel-crud-generator
+
+Caso precise de algo com ACL use:
+
+https://github.com/ribafs/laravel-acl
+
 Veja a transformação de um aplicativo em PHP estruturado para um aplicativo em PHPOO.
 
 Recomenda-se que crie um banco no MySQL ou no PostgreSQL e importe um dos scripts.
